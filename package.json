@@ -1,0 +1,23 @@
+{
+  "name": "catshelterresources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosa2020/catShelter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosa2020/catShelter/issues"
+  },
+  "homepage": "https://github.com/kosa2020/catShelter#readme",
+  "dependencies": {
+    "formidable": "^1.2.2"
+  }
+}
